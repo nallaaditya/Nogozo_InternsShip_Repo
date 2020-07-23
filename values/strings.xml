@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">NOGOZO_Aditya</string>
+
+    <string-array name="ItemsList">
+
+        <item>Adobe Animate</item>
+        <item>Adobe Audition</item>
+        <item>Adobe Bridge</item>
+        <item>Adobe Dreamweaver</item>
+        <item>Adobe Fireworks</item>
+        <item>Adobe Flash</item>
+        <item>Adobe Illustrator</item>
+        <item>Adobe Indesign</item>
+        <item>Adobe Lightroom</item>
+        <item>Adobe Photoshop</item>
+        <item>Adobe Premierpro</item>
+        <item>Adobe Xd</item>
+        <item>Amazon</item>
+        <item>Amazon Alexa</item>
+        <item>Amazon Music</item>
+        <item>Amazon Webservices</item>
+        <item>Android</item>
+        <item>Apple</item>
+        <item>Ardunio</item>
+        <item>Avast</item>
+        <item>BBC</item>
+        <item>Bbm_Messenger</item>
+        <item>Bing</item>
+        <item>Bitcoin</item>
+        <item>Blackberry</item>
+        <item>Bmw</item>
+        <item>Breakingbad</item>
+        <item>Britishairways</item>
+        <item>Burgerking</item>
+        <item>Chrome</item>
+        <item>Citibank</item>
+        <item>Dashcube</item>
+        <item>Dell</item>
+        <item>Discord</item>
+        <item>Disney movies</item>
+        <item>Drupal</item>
+        <item>Ebay</item>
+        <item>Facebook</item>
+        <item>Facebook Messenger</item>
+        <item>Ferrai</item>
+        <item>Firefox</item>
+        <item>Flutter</item>
+        <item>Git</item>
+        <item>Github</item>
+        <item>Gmail</item>
+        <item>Google</item>
+        <item>Google Alerts</item>
+        <item>Google blog search</item>
+        <item>Google classroom</item>
+        <item>Google Cloudplatform</item>
+        <item>Google Code</item>
+        <item>Google computeengine</item>
+        <item>Google docs</item>
+        <item>Google drawing</item>
+        <item>Google drawive</item>
+        <item>Google earth</item>
+        <item>Google form</item>
+        <item>Google groups</item>
+        <item>Google images</item>
+        <item>Google keep</item>
+        <item>Google maps</item>
+        <item>Google maps old</item>
+        <item>Google mobile</item>
+        <item>Google news</item>
+        <item>Google photos</item>
+        <item>Google playstore</item>
+        <item>Google scholar</item>
+        <item>Google sheets</item>
+        <item>Google sketchup</item>
+        <item>Google slides</item>
+        <item>Google translate</item>
+        <item>Google wallet</item>
+        <item>Google websearch</item>
+        <item>Hangouts</item>
+        <item>Haskell</item>
+        <item>Hbogo</item>
+        <item>Honda</item>
+        <item>Hp</item>
+        <item>Hsbc</item>
+        <item>Icq</item>
+        <item>Instagram</item>
+        <item>Intellij idea</item>
+        <item>James bond</item>
+        <item>Jarvis</item>
+        <item>Java</item>
+        <item>Jeep</item>
+        <item>Kik messenger</item>
+        <item>Kotlin</item>
+        <item>Linkedin</item>
+        <item>Maclogo</item>
+        <item>Mastercard</item>
+        <item>Microsoft</item>
+        <item>Microsoft access</item>
+        <item>Microsoft classroom</item>
+        <item>Microsoft edge</item>
+        <item>Microsoft excel</item>
+        <item>Microsoft exchange</item>
+        <item>Microsoft grove</item>
+        <item>Microsoft mixer</item>
+        <item>Microsoft onenote</item>
+        <item>Microsoft outlook</item>
+        <item>Microsoft powerpoint</item>
+        <item>Microsoft project</item>
+        <item>Microsoft publisher</item>
+        <item>Microsoft sharepoint</item>
+        <item>Microsoft todo app</item>
+        <item>Microsoft visio</item>
+        <item>Microsoft word</item>
+        <item>Mitbushi</item>
+        <item>Moodle</item>
+        <item>Netflix</item>
+        <item>Nike</item>
+        <item>Nikon</item>
+        <item>Onedrive</item>
+        <item>Ookla speedtest</item>
+        <item>Openstack</item>
+        <item>Opera</item>
+        <item>Paypal</item>
+        <item>Pinterest</item>
+        <item>Pirates of caribeean</item>
+        <item>Playstation</item>
+        <item>Powerpoint</item>
+        <item>Power bi</item>
+        <item>Pubg</item>
+        <item>Qq</item>
+        <item>React naive</item>
+        <item>Renault</item>
+        <item>Selenium</item>
+        <item>Signal</item>
+        <item>Skype</item>
+        <item>Slack</item>
+        <item>Slack new</item>
+        <item>Snapchat</item>
+        <item>Spotify</item>
+        <item>Starwars</item>
+        <item>Swift</item>
+        <item>Tableau</item>
+        <item>Telegram</item>
+        <item>Threema</item>
+        <item>Thunderbird</item>
+        <item>Twitter</item>
+        <item>United airlines</item>
+        <item>Verge</item>
+        <item>Vimeo</item>
+        <item>Visa</item>
+        <item>Volvo</item>
+        <item>Wechat</item>
+        <item>Whatsapp</item>
+        <item>Wikipedia</item>
+        <item>Windows 10</item>
+        <item>windows 8</item>
+        <item>windows defragmeter</item>
+        <item>windows xp</item>
+        <item>Wordpress</item>
+        <item>xamarin</item>
+        <item>Xbox</item>
+        <item>Yahoo</item>
+        <item>Youtube</item>
+
+
+
+    </string-array>
+
+
+</resources>
